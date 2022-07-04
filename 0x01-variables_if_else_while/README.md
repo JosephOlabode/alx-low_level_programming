@@ -8,3 +8,4 @@
 4-print_alpabet.c: printing all alphabet in lower case except e and q
 5-print_numbers: printing number from 0 to 9
 6-print_numberz: printing number from 0 to 9
+7-print_tebahpla.c: printing alphabet backword
