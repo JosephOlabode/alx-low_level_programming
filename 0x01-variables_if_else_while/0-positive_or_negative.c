@@ -2,13 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-
 /**
  * main - Entry point
  * Description - Prints if random generated number is +tive, zero or -tive
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int n;
@@ -19,7 +17,7 @@ int main(void)
 		printf("%d is positive\n", n);
 	else if (n == 0) 
 		printf("%d is zero\n", n);
-	else 
+	else
 		printf("%d is negative\n", n);
 	return (0);
 }
