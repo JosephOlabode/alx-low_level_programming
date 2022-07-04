@@ -10,3 +10,4 @@
 6-print_numberz: printing number from 0 to 9
 7-print_tebahpla.c: printing alphabet backword
 8-print_base16.c: program that prints all the numbers of base 16 in lowercase
+9-print_comb.c: prints all possible combinations of single-digit numbers.
