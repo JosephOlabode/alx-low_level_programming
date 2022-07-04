@@ -6,3 +6,4 @@
 2-print_alphabet.c: printing alphabet in lower case
 3-print_alphabets.c: printing all english alphabet in lower case
 4-print_alpabet.c: printing all alphabet in lower case except e and q
+5-print_numbers: printing number from 0 to 9
