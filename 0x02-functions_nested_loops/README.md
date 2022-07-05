@@ -15,3 +15,5 @@
 6-abs.c: absolute value of an integer
 
 7-print_last_digit.c: printing last digit of a number
+
+8-24_hours.c: printing every minute of the day
