@@ -27,3 +27,5 @@
 100-times_table.c: printing n times table
 
 101-natural.c: printing natural numbers
+
+102-fibonacci.c: fibonacci
