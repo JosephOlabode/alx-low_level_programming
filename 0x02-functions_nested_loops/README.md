@@ -19,3 +19,5 @@
 8-24_hours.c: printing every minute of the day
 
 9-times_table.c: printing time table
+
+10-add.c: summing two integers
