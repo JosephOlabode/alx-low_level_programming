@@ -25,3 +25,5 @@
 11-print_to_98.c: printing all natural numbers from n to 98
 
 100-times_table.c: printing n times table
+
+101-natural.c: printing natural numbers
