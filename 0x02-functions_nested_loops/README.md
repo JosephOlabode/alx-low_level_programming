@@ -31,3 +31,5 @@
 102-fibonacci.c: fibonacci
 
 103-fibonacci.c: Fibonacci sequence
+
+104-fibonacci.c: prints the first 98 Fibonacci numbers,
