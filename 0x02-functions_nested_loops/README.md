@@ -13,3 +13,5 @@
 5-sign.c: printing the sign of a number
 
 6-abs.c: absolute value of an integer
+
+7-print_last_digit.c: printing last digit of a number
