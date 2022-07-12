@@ -1,6 +1,5 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
  * swap_int - Swap the value of two integers
  *
@@ -9,7 +8,6 @@
  *
  * Return: Nothing
  */
-
 void swap_int(int *a, int *b) 
 {
 	int temp = *a;
