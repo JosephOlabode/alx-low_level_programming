@@ -11,3 +11,5 @@ ARRAY FUNCTION AND POINTERS
 4-print_rev.c: a function that prints a string, in reverse, followed by a new line.
 
 5-rev_string.c: reverse a string
+
+6-puts.c: prints every other character of a string
