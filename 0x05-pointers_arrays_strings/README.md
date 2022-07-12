@@ -15,3 +15,5 @@ ARRAY FUNCTION AND POINTERS
 6-puts.c: prints every other character of a string
 
 7-puts_half.c: function that prints half of a string, followed by a new line.
+
+8-print_array.c: function that prints n elements of an array of integers, followed by a new line.
