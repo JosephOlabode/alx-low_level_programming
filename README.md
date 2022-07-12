@@ -5,3 +5,5 @@ Learning how to execute c files
 Learning if, while and dowhile statements
 
 Functions, Nested loops
+
+Function, Array and Pointers
