@@ -13,3 +13,5 @@ ARRAY FUNCTION AND POINTERS
 5-rev_string.c: reverse a string
 
 6-puts.c: prints every other character of a string
+
+7-puts_half.c: function that prints half of a string, followed by a new line.
