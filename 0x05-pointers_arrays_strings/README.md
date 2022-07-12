@@ -9,3 +9,5 @@ ARRAY FUNCTION AND POINTERS
 3-puts.c: Write a function that prints a string, followed by a new line, to stdout
 
 4-print_rev.c: a function that prints a string, in reverse, followed by a new line.
+
+5-rev_string.c: reverse a string
