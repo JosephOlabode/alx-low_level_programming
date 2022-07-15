@@ -15,3 +15,5 @@
 6-cap_string.c: Determines whether ascii is lowercase
 
 7-leet.c: Encodes a string into 1337
+
+100-rot13.c: encodes a string using rot13
