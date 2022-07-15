@@ -7,3 +7,5 @@ Learning if, while and dowhile statements
 Functions, Nested loops
 
 Function, Array and Pointers
+
+Arrays, Pointers and Strings
