@@ -13,3 +13,5 @@
 5-string_toupper.c: changes all lowercase letters of a string to upper
 
 6-cap_string.c: Determines whether ascii is lowercase
+
+7-leet.c: Encodes a string into 1337
