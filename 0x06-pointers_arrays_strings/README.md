@@ -7,3 +7,5 @@
 2-strncpy.c: Copies a string up to @n bytes
 
 3-strcmp.c: Compare two strings
+
+4-rev_array.c: Reverses the content of an array of integers
