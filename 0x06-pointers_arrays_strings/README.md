@@ -23,3 +23,5 @@
 102-magic.c: implemented the magic task
 
 103-infinite_add.c: infinite_add -  adds two numbers
+
+104-print_buffer.c: isPrintableASCII - determines if n is a printable ASCII char
