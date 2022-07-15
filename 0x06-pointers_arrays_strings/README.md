@@ -21,3 +21,5 @@
 101-print_number.c: print numbers chars
 
 102-magic.c: implemented the magic task
+
+103-infinite_add.c: infinite_add -  adds two numbers
